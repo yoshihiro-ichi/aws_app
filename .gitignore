@@ -26,3 +26,5 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 .env
+yi21120821
+yi21120821.pub
